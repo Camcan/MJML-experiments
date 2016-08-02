@@ -1,0 +1,23 @@
+{
+  "name": "mjml-experiments",
+  "version": "1.0.0",
+  "description": "Developing my knowledge of the MJML responsive email templating library.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "update": "mjml mjml/main.mjml -o index.html",
+    "start": "mjml --watch mjml/main.mjml -o index.html",
+    "test": "echo \"I haven't even thought about testing yet, yo\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camcan/MJML-experiments.git"
+  },
+  "author": "camcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camcan/MJML-experiments/issues"
+  },
+  "homepage": "https://github.com/Camcan/MJML-experiments#readme"
+}

@@ -1,0 +1,7 @@
+<mj-section>
+<mj-section background-color="#ffffff" padding-bottom="20" padding-top="20">
+    <mj-column width="100%" vertical-align="top">
+      <mj-image href="http://www.devacademy.co.nz/" src="http://www.devacademy.co.nz/wp-content/uploads/2016/02/EDA-square-hires-180x180.png" alt="Enspiral Dev Academy Logo" align="center" border="none" width="116" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0" border-radius="5px"></mj-image>
+	</mj-column>
+  </mj-section>
+</mj-section>
